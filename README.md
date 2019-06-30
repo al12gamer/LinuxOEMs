@@ -1,5 +1,5 @@
 # LinuxOEMs
-###A list of Linux OEMs as people add them
+## A list of Linux OEMs as people add them
 
 # Worldwide
 * [StarLabs](https://starlabs.systems)
@@ -9,9 +9,6 @@
 # USA
 * [System76](https://system76.com)
 * [Purism](https://puri.sm)
-
-# EU
-
 
 # UK
 * [Juno Computers](https://junocomputers.com/)
