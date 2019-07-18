@@ -11,6 +11,7 @@
 * [Purism](https://puri.sm)
 * [AVADirect](https://www.avadirect.com/)
 * [ZaReason](https://zareason.com)
+* [ThinkPenguin](https://www.thinkpenguin.com/)
 
 # UK
 * [Juno Computers](https://junocomputers.com/)
@@ -26,6 +27,9 @@
 
 # Belgium
 * [UbuntuShop](https://www.ubuntushop.be/)
+
+# Netherlands
+* [NovaCustom](https://configurelaptop.eu/)
 
 # Spain
 * [Slimbook](https://slimbook.es/)
