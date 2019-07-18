@@ -1,5 +1,5 @@
 # LinuxOEMs
-## A list of Linux OEMs as people add them (in no particular order)
+## A list of Linux OEMs/resellers as people add them (in no particular order)
 
 # Worldwide
 * [Dell](https://www.dell.com/koa/search?q=developer%20edition#q=developer%20edition&t=default&sort=relevancy&layout=card&@dpsalessegment:radioGroup=bsd)
