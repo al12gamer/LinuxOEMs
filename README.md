@@ -1,5 +1,5 @@
 # LinuxOEMs
-## A list of Linux OEMs as people add them
+## A list of Linux OEMs as people add them (in no particular order)
 
 # Worldwide
 * [Dell](https://www.dell.com/koa/search?q=developer%20edition#q=developer%20edition&t=default&sort=relevancy&layout=card&@dpsalessegment:radioGroup=bsd)
@@ -22,6 +22,10 @@
 * [MNT Research](https://mntre.com/)
 * [Vikings](https://store.vikings.net/)
 * [Tuxedo Computer](https://www.tuxedocomputers.com/)
+* [ixsoft](https://ixsoft.de/)
+
+# Belgium
+* [UbuntuShop](https://www.ubuntushop.be/)
 
 # Spain
 * [Slimbook](https://slimbook.es/)
