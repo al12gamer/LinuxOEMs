@@ -4,7 +4,7 @@
 # Worldwide
 * [Dell](https://www.dell.com/koa/search?q=developer%20edition#q=developer%20edition&t=default&sort=relevancy&layout=card&@dpsalessegment:radioGroup=bsd)
 * [Lenovo](https://www.lenovo.com/us/en/laptops/thinkpad/)
-* [Pine64](www.pine64.org)
+* [Pine64](https://www.pine64.org)
 
 # USA
 * [System76](https://system76.com)
