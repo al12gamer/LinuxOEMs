@@ -10,7 +10,7 @@
 # USA
 * [System76](https://system76.com)
 * [Purism](https://puri.sm)
-* [AVADirect](https://www.avadirect.com/)
+* [AVADirect](https://www.avadirect.com/) - can special request linux installation
 * [ZaReason](https://zareason.com)
 * [ThinkPenguin](https://www.thinkpenguin.com/)
 * [EmperorLinux](http://emperorlinux.com/)
