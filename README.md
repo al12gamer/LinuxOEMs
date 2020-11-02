@@ -15,6 +15,7 @@
 * [ThinkPenguin](https://www.thinkpenguin.com/)
 * [EmperorLinux](http://emperorlinux.com/)
 * [Eluktronics](https://www.eluktronics.com/) - can buy without OS, linux not preinstalled
+* [Juno Computers](https://junocomputers.com/)
 
 # UK
 * [Juno Computers](https://junocomputers.com/)
