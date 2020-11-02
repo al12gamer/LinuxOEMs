@@ -5,6 +5,7 @@
 * [Dell](https://www.dell.com/koa/search?q=developer%20edition#q=developer%20edition&t=default&sort=relevancy&layout=card&@dpsalessegment:radioGroup=bsd)
 * [Lenovo](https://www.lenovo.com/us/en/laptops/thinkpad/)
 * [Pine64](https://www.pine64.org)
+* [Raptor Computing](https://www.raptorcs.com/)
 
 # USA
 * [System76](https://system76.com)
@@ -12,6 +13,8 @@
 * [AVADirect](https://www.avadirect.com/)
 * [ZaReason](https://zareason.com)
 * [ThinkPenguin](https://www.thinkpenguin.com/)
+* [EmperorLinux](http://emperorlinux.com/)
+* [Eluktronics](https://www.eluktronics.com/) - can buy without OS, linux not preinstalled
 
 # UK
 * [Juno Computers](https://junocomputers.com/)
@@ -30,6 +33,7 @@
 
 # Netherlands
 * [NovaCustom](https://configurelaptop.eu/)
+* [LaptopWithLinux](https://laptopwithlinux.com/linux-laptops/)
 
 # Spain
 * [Slimbook](https://slimbook.es/)
