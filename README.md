@@ -16,12 +16,14 @@
 * [EmperorLinux](http://emperorlinux.com/)
 * [Eluktronics](https://www.eluktronics.com/) - can buy without OS, linux not preinstalled
 * [Juno Computers](https://junocomputers.com/)
+* [eRacks Open Source Systems](https://eracks.com/)
+* [LAC Portland](https://shop.lacpdx.com/)
 
 # UK
 * [Juno Computers](https://junocomputers.com/)
 * [StarLabs](https://starlabs.systems)
 * [Entroware](https://www.entroware.com)
-* [Ministry of Freedom](https://minifree.org/)
+* [RetroFreedom](https://retrofreedom.com/)
 
 # Germany
 * [MNT Research](https://mntre.com/)
@@ -39,11 +41,18 @@
 # Spain
 * [Slimbook](https://slimbook.es/)
 
+# Switzerland
+* [ReVampIt!](https://www.revamp-it.ch/index.php/en/) - upcycling of hardware, and Linux installations
+
 # Portugal
 * [Libretrend](https://libretrend.com/)
 
 # Romania
 * [Technoethical](https://tehnoetic.com/)
+
+# India
+* [Naveen Ganesan](https://naveenganesan.com/computing/)
+* [91mobiles](https://www.91mobiles.com/search_page.php?q=linux&type=all&utm_source=autosuggest) - large retail site for browsing computers, can include those with Linux preinstalled
 
 # Australia
 * [LinuxNow](https://www.linuxnow.com.au)
