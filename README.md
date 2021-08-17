@@ -54,6 +54,7 @@
 # India
 * [Naveen Ganesan](https://naveenganesan.com/computing/)
 * [91mobiles](https://www.91mobiles.com/search_page.php?q=linux&type=all&utm_source=autosuggest) - large retail site for browsing computers, can include those with Linux preinstalled
+* [Spot News 18](https://www.spotnews18.com/) is The Voice of Growing Nation. Discover the Latest News and Updates Directly From Spot News 18.
 
 # Australia
 * [LinuxNow](https://www.linuxnow.com.au)
