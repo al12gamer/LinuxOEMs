@@ -46,13 +46,13 @@
 * [ReVampIt!](https://www.revamp-it.ch/index.php/en/) - upcycling of hardware, and Linux installations
 
 # Portugal
-* [Libretrend](https://libretrend.com/)
+* ~~[Libretrend](https://libretrend.com/)~~
 
 # Romania
 * [Technoethical](https://tehnoetic.com/)
 
 # India
-* [Naveen Ganesan](https://naveenganesan.com/computing/)
+* ~~[Naveen Ganesan](https://naveenganesan.com/computing/)~~
 * [91mobiles](https://www.91mobiles.com/search_page.php?q=linux&type=all&utm_source=autosuggest) - large retail site for browsing computers, can include those with Linux preinstalled
 
 # Australia
