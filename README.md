@@ -19,6 +19,7 @@
 * [Juno Computers](https://junocomputers.com/)
 * [eRacks Open Source Systems](https://eracks.com/)
 * [LAC Portland](https://shop.lacpdx.com/)
+* [Framework Computer](https://frame.work) - as of 2022 building a team for Linux support, and do lots of Linux testing, can buy with no OS
 
 # UK
 * [Juno Computers](https://junocomputers.com/)
