@@ -6,7 +6,6 @@
 * [Lenovo](https://www.lenovo.com/us/en/thinkpad)
 * [Pine64](https://www.pine64.org)
 * [Raptor Computing](https://www.raptorcs.com/)
-* [Framework](https://frame.work) - can buy without OS, they are testing Linux distros
 
 # USA
 * [System76](https://system76.com)
